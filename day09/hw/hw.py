@@ -1,12 +1,12 @@
-for i in range(1, 11):
-    print(i)
-for i in range(1, 20):
-    print(i)
-for i in range(10, 1, -1):
-    print(i)
-for i in range(0, 20, 2):
-    print(i)
-for i in range(0, 15, 3):
+# for i in range(1, 11):
+#     print(i)
+# for i in range(1, 20):
+#     print(i)
+# for i in range(10, 1, -1):
+#     print(i)
+# for i in range(0, 20, 2):
+#     print(i)
+for i in range(1, 15, 2):
     print(i)
 # while loop პითონში არის ციკლის სახეობა რომელიც მეორდება მანამ სანამ კონკრეტული პირობა არ შესრულდება
 # მაგალითად დედამ გითხრა რო მანამ არ შეჭამ ტკბილეულს სანამ საჭმელს არ შეჭამ ამიტომ იწყებ ჭამას 
